@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hi 👋, I'm Emre Sefa Ozcan</h1>
 <h2 align="center">A passionate learner from Turkey</h2>
 
 <img align="right" height="335" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
