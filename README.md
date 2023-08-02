@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfzcn&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfzcn" /> </p>
 
-<h4 align="left">🌱 I’m currently learning Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/></h4>
-<h4 align="left">⚡ Fun fact Today, NASA still uses programs that are dated in the 70s for their spacecraft.</h4>
+<h3 align="left">🌱 I’m currently learning coding </h3>
+<h3 align="left">⚡ Fun fact Today, NASA still uses programs that are dated in the 70s for their spacecraft.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
