@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java
 
-Link to[My LinkedIn Profile](www.linkedin.com/in/mrsfzcn)
+Link to [My LinkedIn Profile](www.linkedin.com/in/mrsfzcn)
 
 <!--
 **mrsfzcn/mrsfzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
