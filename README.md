@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java
+
+Link to[site name](www.linkedin.com/in/mrsfzcn)
+
 <!--
 **mrsfzcn/mrsfzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
