@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfzcn&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfzcn" /> </p>
 
 <h3 align="left">🌱 I’m currently learning coding </h3>
-<h3 align="left">⚡ Fun fact Today, NASA still uses programs that are dated in the 70s for their spacecraft.</h3>
+<h3 align="left">⚡ Fun fact ⚡ Today, NASA still uses programs that are dated in the 70s for their spacecraft.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
